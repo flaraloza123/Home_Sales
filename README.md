@@ -5,6 +5,7 @@
 2. Import the necessary PySpark SQL functions for this assignment.
 
 3. Read the home_sales_revised.csv data in the starter code into a Spark DataFrame.
+---------------------------------
 ![image_1](Images/Image_1.jpg)
 
 4. Create a temporary table called home_sales.
@@ -12,6 +13,7 @@
 ## Answer the following questions using SparkSQL:
 
 5. What is the average price for a four-bedroom house sold for each year? Round off your answer to two decimal places.
+----------------------------------
 ![image_3](Images/Image_3.jpg)
 
 6. What is the average price of a home for each year it was built that has three bedrooms and three bathrooms? Round off your answer to two decimal places.
